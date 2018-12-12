@@ -6,4 +6,4 @@ function sum(a, b) {
 
 console.log('Branch');
 
-console.log("ChangedOnGitHub');
+console.log('Deleted and New');
