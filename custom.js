@@ -1,9 +1,11 @@
-console.log('Hi');
+console.log("Hi");
 
 function sum(a, b) {
-    return a + b;
+  return a + b;
 }
 
-console.log('Branch');
+console.log("Branch");
 
-console.log('Deleted and New');
+console.log("Deleted and New");
+
+// Master changes
